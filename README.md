@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in learning ne things.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Project
 - 📫 Meassage me on instagram user id: shashay16  
